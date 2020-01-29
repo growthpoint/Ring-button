@@ -2,7 +2,6 @@
 #define SEGMENT_COUNT 7
 #define BUTTON_PIN 8
 #define COUNT_OF_MODES 2 
-#define TEST_FOR_DELETE 2
 boolean buttonWasUp = false;
 byte numberSegments[10] = {
  0b00111111, 0b00001010, 0b01011101, 0b01011101, 0b01101010,
